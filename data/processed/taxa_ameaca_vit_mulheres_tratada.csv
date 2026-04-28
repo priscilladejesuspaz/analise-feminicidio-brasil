@@ -1,0 +1,428 @@
+﻿granularidade geogr�fica;filtro;estado;uf;ano;valor
+Acre;Homicídios;Acre;AC;2020;6.9
+Alagoas;Homicídios;Alagoas;AL;2020;5.6
+Amapá;Homicídios;Amapá;AM;2020;4.6
+Amazonas;Homicídios;Amazonas;AP;2020;3.2
+Bahia;Homicídios;Bahia;BA;2020;5.8
+Ceará;Homicídios;Ceará;CE;2020;7.0
+Distrito Federal;Homicídios;Distrito Federal;DF;2020;2.5
+Espírito Santo;Homicídios;Espírito Santo;ES;2020;4.9
+Goiás;Homicídios;Goiás;GO;2020;3.0
+Maranhão;Homicídios;Maranhão;MA;2020;3.5
+Mato Grosso;Homicídios;Mato Grosso;MG;2020;6.0
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2020;7.8
+Minas Gerais;Homicídios;Minas Gerais;MT;2020;4.0
+Pará;Homicídios;Pará;PA;2020;4.2
+Paraíba;Homicídios;Paraíba;PB;2020;4.5
+Paraná;Homicídios;Paraná;PE;2020;3.9
+Pernambuco;Homicídios;Pernambuco;PI;2020;4.6
+Piauí;Homicídios;Piauí;PR;2020;3.6
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2020;2.2
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2020;4.1
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2020;4.0
+Rondônia;Homicídios;Rondônia;RR;2020;6.3
+Roraima;Homicídios;Roraima;RS;2020;5.3
+Santa Catarina;Homicídios;Santa Catarina;SC;2020;2.8
+São Paulo;Homicídios;São Paulo;SE;2020;1.8
+Sergipe;Homicídios;Sergipe;SP;2020;3.5
+Tocantins;Homicídios;Tocantins;TO;2020;4.9
+Acre;Homicídios;Acre;AC;2021;7.1
+Alagoas;Homicídios;Alagoas;AL;2021;4.5
+Amapá;Homicídios;Amapá;AM;2021;7.1
+Amazonas;Homicídios;Amazonas;AP;2021;5.6
+Bahia;Homicídios;Bahia;BA;2021;5.8
+Ceará;Homicídios;Ceará;CE;2021;7.5
+Distrito Federal;Homicídios;Distrito Federal;DF;2021;3.0
+Espírito Santo;Homicídios;Espírito Santo;ES;2021;5.6
+Goiás;Homicídios;Goiás;GO;2021;3.7
+Maranhão;Homicídios;Maranhão;MA;2021;3.9
+Mato Grosso;Homicídios;Mato Grosso;MG;2021;4.8
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2021;5.1
+Minas Gerais;Homicídios;Minas Gerais;MT;2021;2.9
+Pará;Homicídios;Pará;PA;2021;5.0
+Paraíba;Homicídios;Paraíba;PB;2021;4.1
+Paraná;Homicídios;Paraná;PE;2021;3.6
+Pernambuco;Homicídios;Pernambuco;PI;2021;4.9
+Piauí;Homicídios;Piauí;PR;2021;4.3
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2021;3.0
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2021;4.4
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2021;4.2
+Rondônia;Homicídios;Rondônia;RR;2021;8.2
+Roraima;Homicídios;Roraima;RS;2021;10.4
+Santa Catarina;Homicídios;Santa Catarina;SC;2021;2.8
+São Paulo;Homicídios;São Paulo;SE;2021;1.6
+Sergipe;Homicídios;Sergipe;SP;2021;3.7
+Tocantins;Homicídios;Tocantins;TO;2021;5.2
+Acre;Homicídios;Acre;AC;2022;5.1
+Alagoas;Homicídios;Alagoas;AL;2022;4.4
+Amapá;Homicídios;Amapá;AM;2022;6.8
+Amazonas;Homicídios;Amazonas;AP;2022;5.5
+Bahia;Homicídios;Bahia;BA;2022;5.6
+Ceará;Homicídios;Ceará;CE;2022;5.8
+Distrito Federal;Homicídios;Distrito Federal;DF;2022;2.2
+Espírito Santo;Homicídios;Espírito Santo;ES;2022;4.9
+Goiás;Homicídios;Goiás;GO;2022;3.8
+Maranhão;Homicídios;Maranhão;MA;2022;3.8
+Mato Grosso;Homicídios;Mato Grosso;MG;2022;5.6
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2022;5.5
+Minas Gerais;Homicídios;Minas Gerais;MT;2022;3.0
+Pará;Homicídios;Pará;PA;2022;5.1
+Paraíba;Homicídios;Paraíba;PB;2022;3.9
+Paraná;Homicídios;Paraná;PE;2022;4.4
+Pernambuco;Homicídios;Pernambuco;PI;2022;4.6
+Piauí;Homicídios;Piauí;PR;2022;4.2
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2022;3.3
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2022;3.9
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2022;5.0
+Rondônia;Homicídios;Rondônia;RR;2022;8.1
+Roraima;Homicídios;Roraima;RS;2022;6.0
+Santa Catarina;Homicídios;Santa Catarina;SC;2022;2.6
+São Paulo;Homicídios;São Paulo;SE;2022;1.8
+Sergipe;Homicídios;Sergipe;SP;2022;3.2
+Tocantins;Homicídios;Tocantins;TO;2022;4.8
+Acre;Homicídios;Acre;AC;2023;3.6
+Alagoas;Homicídios;Alagoas;AL;2023;4.8
+Amapá;Homicídios;Amapá;AM;2023;4.6
+Amazonas;Homicídios;Amazonas;AP;2023;6.4
+Bahia;Homicídios;Bahia;BA;2023;6.0
+Ceará;Homicídios;Ceará;CE;2023;5.8
+Distrito Federal;Homicídios;Distrito Federal;DF;2023;3.2
+Espírito Santo;Homicídios;Espírito Santo;ES;2023;4.5
+Goiás;Homicídios;Goiás;GO;2023;3.5
+Maranhão;Homicídios;Maranhão;MA;2023;3.9
+Mato Grosso;Homicídios;Mato Grosso;MG;2023;5.7
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2023;3.6
+Minas Gerais;Homicídios;Minas Gerais;MT;2023;3.1
+Pará;Homicídios;Pará;PA;2023;5.0
+Paraíba;Homicídios;Paraíba;PB;2023;3.6
+Paraná;Homicídios;Paraná;PE;2023;4.2
+Pernambuco;Homicídios;Pernambuco;PI;2023;5.7
+Piauí;Homicídios;Piauí;PR;2023;3.7
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2023;3.4
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2023;3.2
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2023;3.9
+Rondônia;Homicídios;Rondônia;RR;2023;6.1
+Roraima;Homicídios;Roraima;RS;2023;5.4
+Santa Catarina;Homicídios;Santa Catarina;SC;2023;2.8
+São Paulo;Homicídios;São Paulo;SE;2023;1.9
+Sergipe;Homicídios;Sergipe;SP;2023;3.4
+Tocantins;Homicídios;Tocantins;TO;2023;4.8
+Acre;Homicídios;Acre;AC;2019;7.0
+Alagoas;Homicídios;Alagoas;AL;2019;5.1
+Amapá;Homicídios;Amapá;AM;2019;9.0
+Amazonas;Homicídios;Amazonas;AP;2019;3.9
+Bahia;Homicídios;Bahia;BA;2019;5.2
+Ceará;Homicídios;Ceará;CE;2019;4.8
+Distrito Federal;Homicídios;Distrito Federal;DF;2019;3.8
+Espírito Santo;Homicídios;Espírito Santo;ES;2019;6.2
+Goiás;Homicídios;Goiás;GO;2019;4.2
+Maranhão;Homicídios;Maranhão;MA;2019;2.8
+Mato Grosso;Homicídios;Mato Grosso;MG;2019;5.1
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2019;7.5
+Minas Gerais;Homicídios;Minas Gerais;MT;2019;2.9
+Pará;Homicídios;Pará;PA;2019;6.8
+Paraíba;Homicídios;Paraíba;PB;2019;3.4
+Paraná;Homicídios;Paraná;PE;2019;3.7
+Pernambuco;Homicídios;Pernambuco;PI;2019;3.8
+Piauí;Homicídios;Piauí;PR;2019;2.7
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2019;3.4
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2019;5.0
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2019;4.4
+Rondônia;Homicídios;Rondônia;RR;2019;3.3
+Roraima;Homicídios;Roraima;RS;2019;8.2
+Santa Catarina;Homicídios;Santa Catarina;SC;2019;3.6
+São Paulo;Homicídios;São Paulo;SE;2019;1.9
+Sergipe;Homicídios;Sergipe;SP;2019;4.0
+Tocantins;Homicídios;Tocantins;TO;2019;3.6
+Acre;Homicídios;Acre;AC;2018;8.4
+Alagoas;Homicídios;Alagoas;AL;2018;3.7
+Amapá;Homicídios;Amapá;AM;2018;4.2
+Amazonas;Homicídios;Amazonas;AP;2018;4.6
+Bahia;Homicídios;Bahia;BA;2018;5.4
+Ceará;Homicídios;Ceará;CE;2018;9.7
+Distrito Federal;Homicídios;Distrito Federal;DF;2018;2.9
+Espírito Santo;Homicídios;Espírito Santo;ES;2018;4.6
+Goiás;Homicídios;Goiás;GO;2018;5.7
+Maranhão;Homicídios;Maranhão;MA;2018;2.8
+Mato Grosso;Homicídios;Mato Grosso;MG;2018;4.1
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2018;6.4
+Minas Gerais;Homicídios;Minas Gerais;MT;2018;3.0
+Pará;Homicídios;Pará;PA;2018;7.8
+Paraíba;Homicídios;Paraíba;PB;2018;3.8
+Paraná;Homicídios;Paraná;PE;2018;3.7
+Pernambuco;Homicídios;Pernambuco;PI;2018;4.7
+Piauí;Homicídios;Piauí;PR;2018;3.1
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2018;4.0
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2018;4.7
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2018;5.5
+Rondônia;Homicídios;Rondônia;RR;2018;4.7
+Roraima;Homicídios;Roraima;RS;2018;10.4
+Santa Catarina;Homicídios;Santa Catarina;SC;2018;2.7
+São Paulo;Homicídios;São Paulo;SE;2018;2.0
+Sergipe;Homicídios;Sergipe;SP;2018;3.1
+Tocantins;Homicídios;Tocantins;TO;2018;4.0
+Acre;Homicídios;Acre;AC;2017;9.0
+Alagoas;Homicídios;Alagoas;AL;2017;4.3
+Amapá;Homicídios;Amapá;AM;2017;7.1
+Amazonas;Homicídios;Amazonas;AP;2017;3.7
+Bahia;Homicídios;Bahia;BA;2017;6.1
+Ceará;Homicídios;Ceará;CE;2017;7.7
+Distrito Federal;Homicídios;Distrito Federal;DF;2017;2.6
+Espírito Santo;Homicídios;Espírito Santo;ES;2017;6.6
+Goiás;Homicídios;Goiás;GO;2017;5.8
+Maranhão;Homicídios;Maranhão;MA;2017;3.2
+Mato Grosso;Homicídios;Mato Grosso;MG;2017;4.6
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2017;4.4
+Minas Gerais;Homicídios;Minas Gerais;MT;2017;3.5
+Pará;Homicídios;Pará;PA;2017;6.9
+Paraíba;Homicídios;Paraíba;PB;2017;3.7
+Paraná;Homicídios;Paraná;PE;2017;3.2
+Pernambuco;Homicídios;Pernambuco;PI;2017;6.1
+Piauí;Homicídios;Piauí;PR;2017;3.6
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2017;4.4
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2017;8.4
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2017;5.3
+Rondônia;Homicídios;Rondônia;RR;2017;6.1
+Roraima;Homicídios;Roraima;RS;2017;3.9
+Santa Catarina;Homicídios;Santa Catarina;SC;2017;3.2
+São Paulo;Homicídios;São Paulo;SE;2017;2.2
+Sergipe;Homicídios;Sergipe;SP;2017;5.5
+Tocantins;Homicídios;Tocantins;TO;2017;4.3
+Acre;Homicídios;Acre;AC;2016;6.4
+Alagoas;Homicídios;Alagoas;AL;2016;3.1
+Amapá;Homicídios;Amapá;AM;2016;5.2
+Amazonas;Homicídios;Amazonas;AP;2016;3.4
+Bahia;Homicídios;Bahia;BA;2016;5.7
+Ceará;Homicídios;Ceará;CE;2016;4.4
+Distrito Federal;Homicídios;Distrito Federal;DF;2016;3.4
+Espírito Santo;Homicídios;Espírito Santo;ES;2016;5.0
+Goiás;Homicídios;Goiás;GO;2016;5.9
+Maranhão;Homicídios;Maranhão;MA;2016;3.5
+Mato Grosso;Homicídios;Mato Grosso;MG;2016;5.6
+Mato Grosso do Sul;Homicídios;Mato Grosso do Sul;MS;2016;7.8
+Minas Gerais;Homicídios;Minas Gerais;MT;2016;3.3
+Pará;Homicídios;Pará;PA;2016;6.6
+Paraíba;Homicídios;Paraíba;PB;2016;4.7
+Paraná;Homicídios;Paraná;PE;2016;3.5
+Pernambuco;Homicídios;Pernambuco;PI;2016;5.8
+Piauí;Homicídios;Piauí;PR;2016;3.3
+Rio de Janeiro;Homicídios;Rio de Janeiro;RJ;2016;4.6
+Rio Grande do Norte;Homicídios;Rio Grande do Norte;RN;2016;5.8
+Rio Grande do Sul;Homicídios;Rio Grande do Sul;RO;2016;5.0
+Rondônia;Homicídios;Rondônia;RR;2016;5.0
+Roraima;Homicídios;Roraima;RS;2016;2.4
+Santa Catarina;Homicídios;Santa Catarina;SC;2016;3.3
+São Paulo;Homicídios;São Paulo;SE;2016;2.1
+Sergipe;Homicídios;Sergipe;SP;2016;4.4
+Tocantins;Homicídios;Tocantins;TO;2016;4.5
+Acre;Feminicídios;Acre;AC;2020;2.7
+Alagoas;Feminicídios;Alagoas;AL;2020;2.0
+Amapá;Feminicídios;Amapá;AM;2020;2.1
+Amazonas;Feminicídios;Amazonas;AP;2020;0.8
+Bahia;Feminicídios;Bahia;BA;2020;1.5
+Ceará;Feminicídios;Ceará;CE;2020;0.6
+Distrito Federal;Feminicídios;Distrito Federal;DF;2020;1.1
+Espírito Santo;Feminicídios;Espírito Santo;ES;2020;1.3
+Goiás;Feminicídios;Goiás;GO;2020;1.2
+Maranhão;Feminicídios;Maranhão;MA;2020;1.8
+Mato Grosso;Feminicídios;Mato Grosso;MG;2020;3.6
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2020;2.9
+Minas Gerais;Feminicídios;Minas Gerais;MT;2020;1.4
+Pará;Feminicídios;Pará;PA;2020;1.5
+Paraíba;Feminicídios;Paraíba;PB;2020;1.7
+Paraná;Feminicídios;Paraná;PE;2020;1.2
+Pernambuco;Feminicídios;Pernambuco;PI;2020;1.5
+Piauí;Feminicídios;Piauí;PR;2020;1.8
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2020;0.9
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2020;0.7
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2020;1.4
+Rondônia;Feminicídios;Rondônia;RR;2020;1.6
+Roraima;Feminicídios;Roraima;RS;2020;3.0
+Santa Catarina;Feminicídios;Santa Catarina;SC;2020;1.6
+São Paulo;Feminicídios;São Paulo;SE;2020;0.8
+Sergipe;Feminicídios;Sergipe;SP;2020;1.2
+Tocantins;Feminicídios;Tocantins;TO;2020;1.3
+Acre;Feminicídios;Acre;AC;2021;2.9
+Alagoas;Feminicídios;Alagoas;AL;2021;1.5
+Amapá;Feminicídios;Amapá;AM;2021;1.1
+Amazonas;Feminicídios;Amazonas;AP;2021;1.2
+Bahia;Feminicídios;Bahia;BA;2021;1.3
+Ceará;Feminicídios;Ceará;CE;2021;0.7
+Distrito Federal;Feminicídios;Distrito Federal;DF;2021;1.7
+Espírito Santo;Feminicídios;Espírito Santo;ES;2021;2.0
+Goiás;Feminicídios;Goiás;GO;2021;1.5
+Maranhão;Feminicídios;Maranhão;MA;2021;1.7
+Mato Grosso;Feminicídios;Mato Grosso;MG;2021;2.4
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2021;2.4
+Minas Gerais;Feminicídios;Minas Gerais;MT;2021;1.5
+Pará;Feminicídios;Pará;PA;2021;1.7
+Paraíba;Feminicídios;Paraíba;PB;2021;1.6
+Paraná;Feminicídios;Paraná;PE;2021;1.3
+Pernambuco;Feminicídios;Pernambuco;PI;2021;1.9
+Piauí;Feminicídios;Piauí;PR;2021;2.2
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2021;1.0
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2021;1.2
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2021;1.7
+Rondônia;Feminicídios;Rondônia;RR;2021;2.0
+Roraima;Feminicídios;Roraima;RS;2021;1.7
+Santa Catarina;Feminicídios;Santa Catarina;SC;2021;1.5
+São Paulo;Feminicídios;São Paulo;SE;2021;0.6
+Sergipe;Feminicídios;Sergipe;SP;2021;1.8
+Tocantins;Feminicídios;Tocantins;TO;2021;2.9
+Acre;Feminicídios;Acre;AC;2022;2.2
+Alagoas;Feminicídios;Alagoas;AL;2022;1.9
+Amapá;Feminicídios;Amapá;AM;2022;2.4
+Amazonas;Feminicídios;Amazonas;AP;2022;1.1
+Bahia;Feminicídios;Bahia;BA;2022;1.5
+Ceará;Feminicídios;Ceará;CE;2022;0.6
+Distrito Federal;Feminicídios;Distrito Federal;DF;2022;1.5
+Espírito Santo;Feminicídios;Espírito Santo;ES;2022;1.8
+Goiás;Feminicídios;Goiás;GO;2022;1.5
+Maranhão;Feminicídios;Maranhão;MA;2022;2.0
+Mato Grosso;Feminicídios;Mato Grosso;MG;2022;2.6
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2022;3.1
+Minas Gerais;Feminicídios;Minas Gerais;MT;2022;1.7
+Pará;Feminicídios;Pará;PA;2022;1.3
+Paraíba;Feminicídios;Paraíba;PB;2022;1.3
+Paraná;Feminicídios;Paraná;PE;2022;1.3
+Pernambuco;Feminicídios;Pernambuco;PI;2022;1.5
+Piauí;Feminicídios;Piauí;PR;2022;1.4
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2022;1.3
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2022;0.9
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2022;2.0
+Rondônia;Feminicídios;Rondônia;RR;2022;2.9
+Roraima;Feminicídios;Roraima;RS;2022;0.9
+Santa Catarina;Feminicídios;Santa Catarina;SC;2022;1.5
+São Paulo;Feminicídios;São Paulo;SE;2022;0.8
+Sergipe;Feminicídios;Sergipe;SP;2022;1.6
+Tocantins;Feminicídios;Tocantins;TO;2022;1.9
+Acre;Feminicídios;Acre;AC;2023;2.4
+Alagoas;Feminicídios;Alagoas;AL;2023;1.1
+Amapá;Feminicídios;Amapá;AM;2023;1.1
+Amazonas;Feminicídios;Amazonas;AP;2023;1.2
+Bahia;Feminicídios;Bahia;BA;2023;1.5
+Ceará;Feminicídios;Ceará;CE;2023;0.9
+Distrito Federal;Feminicídios;Distrito Federal;DF;2023;2.2
+Espírito Santo;Feminicídios;Espírito Santo;ES;2023;1.8
+Goiás;Feminicídios;Goiás;GO;2023;1.6
+Maranhão;Feminicídios;Maranhão;MA;2023;1.5
+Mato Grosso;Feminicídios;Mato Grosso;MG;2023;2.5
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2023;2.1
+Minas Gerais;Feminicídios;Minas Gerais;MT;2023;1.7
+Pará;Feminicídios;Pará;PA;2023;1.4
+Paraíba;Feminicídios;Paraíba;PB;2023;1.7
+Paraná;Feminicídios;Paraná;PE;2023;1.4
+Pernambuco;Feminicídios;Pernambuco;PI;2023;1.7
+Piauí;Feminicídios;Piauí;PR;2023;1.7
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2023;1.2
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2023;1.4
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2023;1.5
+Rondônia;Feminicídios;Rondônia;RR;2023;2.6
+Roraima;Feminicídios;Roraima;RS;2023;1.9
+Santa Catarina;Feminicídios;Santa Catarina;SC;2023;1.5
+São Paulo;Feminicídios;São Paulo;SE;2023;1.0
+Sergipe;Feminicídios;Sergipe;SP;2023;1.4
+Tocantins;Feminicídios;Tocantins;TO;2023;2.4
+Acre;Feminicídios;Acre;AC;2019;2.5
+Alagoas;Feminicídios;Alagoas;AL;2019;2.5
+Amapá;Feminicídios;Amapá;AM;2019;1.7
+Amazonas;Feminicídios;Amazonas;AP;2019;0.6
+Bahia;Feminicídios;Bahia;BA;2019;1.3
+Ceará;Feminicídios;Ceará;CE;2019;0.7
+Distrito Federal;Feminicídios;Distrito Federal;DF;2019;2.0
+Espírito Santo;Feminicídios;Espírito Santo;ES;2019;1.7
+Goiás;Feminicídios;Goiás;GO;2019;1.2
+Maranhão;Feminicídios;Maranhão;MA;2019;1.4
+Mato Grosso;Feminicídios;Mato Grosso;MG;2019;2.3
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2019;2.1
+Minas Gerais;Feminicídios;Minas Gerais;MT;2019;1.3
+Pará;Feminicídios;Pará;PA;2019;1.1
+Paraíba;Feminicídios;Paraíba;PB;2019;1.8
+Paraná;Feminicídios;Paraná;PE;2019;1.5
+Pernambuco;Feminicídios;Pernambuco;PI;2019;1.1
+Piauí;Feminicídios;Piauí;PR;2019;1.7
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2019;0.9
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2019;1.2
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2019;1.7
+Rondônia;Feminicídios;Rondônia;RR;2019;0.8
+Roraima;Feminicídios;Roraima;RS;2019;2.0
+Santa Catarina;Feminicídios;Santa Catarina;SC;2019;1.6
+São Paulo;Feminicídios;São Paulo;SE;2019;0.8
+Sergipe;Feminicídios;Sergipe;SP;2019;1.8
+Tocantins;Feminicídios;Tocantins;TO;2019;1.3
+Acre;Feminicídios;Acre;AC;2018;3.4
+Alagoas;Feminicídios;Alagoas;AL;2018;1.2
+Amapá;Feminicídios;Amapá;AM;2018;0.7
+Amazonas;Feminicídios;Amazonas;AP;2018;0.2
+Bahia;Feminicídios;Bahia;BA;2018;1.0
+Ceará;Feminicídios;Ceará;CE;2018;0.6
+Distrito Federal;Feminicídios;Distrito Federal;DF;2018;1.7
+Espírito Santo;Feminicídios;Espírito Santo;ES;2018;1.7
+Goiás;Feminicídios;Goiás;GO;2018;1.1
+Maranhão;Feminicídios;Maranhão;MA;2018;1.3
+Mato Grosso;Feminicídios;Mato Grosso;MG;2018;2.5
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2018;3.1
+Minas Gerais;Feminicídios;Minas Gerais;MT;2018;1.5
+Pará;Feminicídios;Pará;PA;2018;1.6
+Paraíba;Feminicídios;Paraíba;PB;2018;1.6
+Paraná;Feminicídios;Paraná;PE;2018;1.2
+Pernambuco;Feminicídios;Pernambuco;PI;2018;1.5
+Piauí;Feminicídios;Piauí;PR;2018;1.6
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2018;0.8
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2018;1.6
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2018;2.0
+Rondônia;Feminicídios;Rondônia;RR;2018;1.0
+Roraima;Feminicídios;Roraima;RS;2018;1.5
+Santa Catarina;Feminicídios;Santa Catarina;SC;2018;1.2
+São Paulo;Feminicídios;São Paulo;SE;2018;0.6
+Sergipe;Feminicídios;Sergipe;SP;2018;1.4
+Tocantins;Feminicídios;Tocantins;TO;2018;0.8
+Acre;Feminicídios;Acre;AC;2017;3.2
+Alagoas;Feminicídios;Alagoas;AL;2017;2.0
+Amapá;Feminicídios;Amapá;AM;2017;0.5
+Amazonas;Feminicídios;Amazonas;AP;2017;0.8
+Bahia;Feminicídios;Bahia;BA;2017;1.0
+Ceará;Feminicídios;Ceará;CE;2017;0.5
+Distrito Federal;Feminicídios;Distrito Federal;DF;2017;1.1
+Espírito Santo;Feminicídios;Espírito Santo;ES;2017;2.1
+Goiás;Feminicídios;Goiás;GO;2017;0.7
+Maranhão;Feminicídios;Maranhão;MA;2017;1.4
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2017;2.1
+Minas Gerais;Feminicídios;Minas Gerais;MT;2017;1.4
+Pará;Feminicídios;Pará;PA;2017;1.2
+Paraíba;Feminicídios;Paraíba;PB;2017;1.1
+Paraná;Feminicídios;Paraná;PE;2017;0.7
+Pernambuco;Feminicídios;Pernambuco;PI;2017;1.6
+Piauí;Feminicídios;Piauí;PR;2017;1.6
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2017;0.8
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2017;1.3
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2017;1.4
+Rondônia;Feminicídios;Rondônia;RR;2017;0.0
+Roraima;Feminicídios;Roraima;RS;2017;1.2
+Santa Catarina;Feminicídios;Santa Catarina;SC;2017;1.5
+São Paulo;Feminicídios;São Paulo;SE;2017;0.5
+Sergipe;Feminicídios;Sergipe;SP;2017;0.5
+Tocantins;Feminicídios;Tocantins;TO;2017;4.2
+Acre;Feminicídios;Acre;AC;2016;3.5
+Alagoas;Feminicídios;Alagoas;AL;2016;2.1
+Amazonas;Feminicídios;Amazonas;AP;2016;0.5
+Bahia;Feminicídios;Bahia;BA;2016;0.2
+Distrito Federal;Feminicídios;Distrito Federal;DF;2016;1.3
+Espírito Santo;Feminicídios;Espírito Santo;ES;2016;1.8
+Goiás;Feminicídios;Goiás;GO;2016;0.5
+Mato Grosso;Feminicídios;Mato Grosso;MG;2016;3.0
+Mato Grosso do Sul;Feminicídios;Mato Grosso do Sul;MS;2016;2.5
+Minas Gerais;Feminicídios;Minas Gerais;MT;2016;1.3
+Pará;Feminicídios;Pará;PA;2016;1.1
+Paraíba;Feminicídios;Paraíba;PB;2016;1.2
+Paraná;Feminicídios;Paraná;PE;2016;0.4
+Pernambuco;Feminicídios;Pernambuco;PI;2016;2.3
+Piauí;Feminicídios;Piauí;PR;2016;1.9
+Rio de Janeiro;Feminicídios;Rio de Janeiro;RJ;2016;0.2
+Rio Grande do Norte;Feminicídios;Rio Grande do Norte;RN;2016;1.5
+Rio Grande do Sul;Feminicídios;Rio Grande do Sul;RO;2016;1.7
+Rondônia;Feminicídios;Rondônia;RR;2016;4.2
+Roraima;Feminicídios;Roraima;RS;2016;1.2
+Santa Catarina;Feminicídios;Santa Catarina;SC;2016;1.6
+São Paulo;Feminicídios;São Paulo;SE;2016;0.3
+Tocantins;Feminicídios;Tocantins;TO;2016;5.0
